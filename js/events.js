@@ -17,7 +17,7 @@ function pressIt() {
 }
 
 function submitIt() {
-  $(":submit").on('')
+  $(":submit").on('click', e => { alert('') });
 }
 
 $(document).ready(function(){

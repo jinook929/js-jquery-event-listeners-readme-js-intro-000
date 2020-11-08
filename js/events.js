@@ -4,7 +4,7 @@ function getIt() {
 }
 
 function frameIt() {
-  $('.tasty').on('load', )
+  $('.tasty').on('load', .attr('name', 'value');)
 }
 
 $(document).ready(function(){

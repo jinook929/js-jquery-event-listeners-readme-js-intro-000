@@ -11,7 +11,7 @@ function pressIt() {
   $('input').on('keydown', e => {
     if (e.which === 13 ) {
       e.preventDefault();
-      alert()
+      alert('You have pressed the G key.')
     }
   });
 }

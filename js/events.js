@@ -16,6 +16,10 @@ function pressIt() {
   });
 }
 
+function submitIt() {
+  $('input')
+}
+
 $(document).ready(function(){
 
 // call functions here

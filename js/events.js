@@ -7,6 +7,10 @@ function frameIt() {
   $('img').addClass('tasty');
 }
 
+function pressIt() {
+  $('input').on('keydown', e => )
+}
+
 $(document).ready(function(){
 
 // call functions here
